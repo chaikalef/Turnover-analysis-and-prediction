@@ -1,5 +1,4 @@
 # Turnover-analysis-and-prediction
-Turnover analysis and prediction    
 Brief verbal navigation on pdf file:
 1. pivot table is presented on pages 12-13;
 2. Charts of monthly turnover, the number of orders and the average check are presented on page 16;
