@@ -12,7 +12,7 @@ Stages of problem solving:
 5. trade forecast for the second half of 2017 by months and comparison with the fact;
 6. calculation of forecast error.    
 
-CSV file hear: https://1drv.ms/u/s!AqmvQf_JPfdRo5gGTTVtiWrRlIjvjQ.    
+CSV file [hear](https://onedrive.live.com/download?cid=51F73DC9FF41AFA9&resid=51F73DC9FF41AFA9%21576518&authkey=ABXDfvBazZCIZwk).    
 
 Brief verbal navigation on PDF file:
 1. pivot table is presented on pages 12-13;
